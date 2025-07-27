@@ -57,13 +57,13 @@ const About = () => {
             
             <div className="about__text">
                 <p>
-                I'm a Full Stack Developer with a passion for turning complex ideas into seamless digital experiences. I work mainly with the MERN stack...
+                 I'm a Full Stack Developer with a passion for turning complex ideas into seamless digital experiences. I work mainly with the MERN stack(MongoDB, ExpressJs, ReactJs, NodeJs) with a strong focus on building efficient, scalable, and user-centric web applications.
                 </p>
                 <p>
-                I thrive at the intersection of creativity and logic — from designing clean, intuitive UIs to architecting robust backend systems...
+                 I thrive at the intersection of creativity and logic — from designing clean, intuitive UIs to architecting robust backend systems. I pay close attention to details, write clean code, and always try to improve the user experience.
                 </p>
                 <p>
-                I'm currently looking for opportunities to contribute to impactful projects, grow alongside talented teams, and continue learning...
+                 I'm currently looking for opportunities to contribute to impactful projects, grow alongside talented teams, and continue learning in the ever-evolving world of web development.
                 </p>
                 <a href="#" className="btn">My Resume</a>
             </div>
