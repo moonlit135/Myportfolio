@@ -65,7 +65,7 @@ const About = () => {
                 <p>
                  I'm currently looking for opportunities to contribute to impactful projects, grow alongside talented teams, and continue learning in the ever-evolving world of web development.
                 </p>
-                <a href="#" className="btn">My Resume</a>
+                <a href="https://drive.google.com/file/d/1hSTA1NsINynQnUThWee-ihfP6J5jiCwG/view?usp=sharing" className="btn">My Resume</a>
             </div>
 
             <div className="about__image-box">
