@@ -7,6 +7,15 @@ const Work = () => {
       liveUrl: "https://ecommerece-forever.vercel.app/",
       githubUrl: "https://github.com/moonlit135/EcommereceForever",
       image: "./images/project-1.png"
+    },
+
+    {
+      title: "Library Management system",
+      description: "Library sytem to manage books, members, and transactions efficiently. Currently, the homepage with registration/login is live  and dashboard pages under development",
+      technologies: ["ReactJs", "NodeJs", "MySQL", "ExpressJs"],
+      liveUrl: "https://library-management-system-tau-opal.vercel.app/",
+      githubUrl: "https://github.com/moonlit135/LibraryManagementSystem",
+      image: "./images/project-2.png"
     }
     
   ]
